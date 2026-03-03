@@ -1,34 +1,23 @@
 # Aleksei Ivanov
 
-**Senior Software Engineer (Backend / Platform) | 10+ years**
+**Senior Software Engineer | End-to-end delivery in .NET & Cloud**
 
-Email: aleksei.ivanov.job@gmail.com  
 LinkedIn: https://www.linkedin.com/in/aleksei-ivanov-uk/
 
 
 ## Profile
 
-Product-minded Software Engineer with **10+ years experience** building **backend platforms and distributed systems** in regulated, reliability-critical environments. Deliver end-to-end across design, implementation and production operations, collaborating with cross-functional stakeholders to drive measurable cost and efficiency improvements.
+Senior software engineer with **10+ years** experience building backend services, integrations, and cloud systems. Proven at end-to-end delivery across design, implementation and production operations, partnering with
+cross‑functional stakeholders to solve business problems and drive measurable cost and efficiency improvements.
 
-Proficient in **.NET/C#**, enterprise integration, event-driven messaging, secure IAM/SSO and cloud-native operations. Comfortable across the stack: **React/TypeScript** portals and Python decision-support systems.
-
-## Selected impact
-
-- Standardised data access across 8 enterprise systems via a secure API gateway, SSO and event-driven workflows.
-- Enabled audit-ready shop-floor execution and traceability via an in-house MES integrated with ERP and PLM.
-- Reduced procurement request processing time by ~50% by delivering an ERP-integrated self-service portal for 300+ users.
-- Cut green hydrogen production OPEX by 27% via forecast-driven continuous dispatch optimisation.
+Proficient in **C#/.NET** backend engineering, enterprise integration, and cloud-native development on Azure and AWS. Comfortable across the stack, building React/TypeScript portals and dashboards. Technically broad, using Python for optimisation, forecasting and decision-support systems.
 
 ## Core Skills
 
-- C#, .NET, ASP.NET Core, SQL Server, MongoDB, Redis
-- TypeScript/JavaScript, Node.js, React, Angular
-- Python, Pyomo
-- Azure, AWS, Microservices, DDD, CQRS, CDC
-- REST/SOAP/GraphQL, IdentityServer, OAuth 2.0 / OIDC, SSO
-- Docker, Kubernetes, Terraform, CI/CD (Azure DevOps, Bitbucket)
-- RabbitMQ, Azure Service Bus
-- OpenTelemetry, Application Insights, Grafana, Prometheus, InfluxDB
+- C#, .NET, ASP.NET Core; SQL Server; Azure
+- TypeScript/JavaScript, Node.js; React, Angular; AWS; Python
+- MongoDB, Redis, InfluxDB; RabbitMQ, Azure Service Bus; Grafana
+- Docker, CI/CD; OAuth2/OIDC, IAM/RBAC; REST, GraphQL; Microservices
 
 ## Experience
 
