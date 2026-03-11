@@ -10,14 +10,17 @@ LinkedIn: https://www.linkedin.com/in/aleksei-ivanov-uk/
 Senior software engineer with **10+ years** experience building backend services, integrations, and cloud systems. Proven at end-to-end delivery across design, implementation and production operations, partnering with
 cross‑functional stakeholders to solve business problems and drive measurable cost and efficiency improvements.
 
-Proficient in **C#/.NET** backend engineering, enterprise integration, and cloud-native development on Azure and AWS. Comfortable across the stack, building React/TypeScript portals and dashboards. Technically broad, using Python for optimisation, forecasting and decision-support systems.
+Proficient in C#/.NET and TypeScript/Node.js backend engineering, enterprise integration, and cloud-native development on Azure and AWS. Comfortable across the stack, building React portals and dashboards. Technically broad, using Python for optimisation, forecasting and decision-support systems.
 
 ## Core Skills
 
-- C#, .NET, ASP.NET Core; SQL Server; Azure
-- TypeScript/JavaScript, Node.js; React, Angular; AWS; Python
-- MongoDB, Redis, InfluxDB; RabbitMQ, Azure Service Bus; Grafana
-- Docker, CI/CD; OAuth2/OIDC, IAM/RBAC; REST, GraphQL; Microservices
+- C#/.NET, ASP.NET Core
+- TypeScript/JavaScript, Node.js
+- SQL Server, PostgreSQL, MongoDB, Redis, InfluxDB;
+- RabbitMQ, Azure Service Bus;
+- React, Angular; Grafana; Python
+- Azure, AWS; Docker, CI/CD;
+- OAuth2/OIDC, IAM/RBAC; REST, GraphQL;
 
 ## Experience
 
